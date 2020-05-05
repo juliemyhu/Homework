@@ -1,6 +1,4 @@
 
-
-
 melon_cost = 1.00
 
 def print_payment_status(payment_filename):
